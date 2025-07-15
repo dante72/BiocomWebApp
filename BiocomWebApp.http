@@ -1,0 +1,6 @@
+@BiocomWebApp_HostAddress = http://localhost:5068
+
+GET {{BiocomWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
